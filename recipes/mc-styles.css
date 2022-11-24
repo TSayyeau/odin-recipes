@@ -46,5 +46,7 @@ h4 {
 button {
     background-color: rgb(223, 223, 112);
     color: rgb(105, 45, 45);
+    margin-top: 0.9em;
+    margin-bottom: 1em;
 
 }
