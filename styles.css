@@ -23,12 +23,15 @@ h3 {
     font-weight: 800;
     text-decoration: underline;
     color: rgb(23, 196, 89);
+    margin-top: 0.9em;
+    margin-bottom: 1em;
 
 }
 
 .list {
     font-size: 18px;
     font-weight: 300;
+    line-height: 1.5em;
 }
 
 a.one:link {
