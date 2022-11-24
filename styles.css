@@ -1,0 +1,56 @@
+*{
+    margin:0;
+    padding:0;
+ }
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(36, 35, 35);
+    color: wheat;
+    font-size: 16px;
+}
+
+#title {
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(23, 196, 89);
+}
+
+h3 {
+    font-size: 30px;
+    font-weight: 800;
+    text-decoration: underline;
+    color: rgb(23, 196, 89);
+
+}
+
+.list {
+    font-size: 18px;
+    font-weight: 300;
+}
+
+a.one:link {
+    color:rgb(94, 172, 245);  
+}
+
+a.one:visited {
+    color:rgb(236, 45, 236)
+}
+    
+a.two:link {
+    color:rgb(94, 172, 245);  
+}
+  
+a.two:visited {
+    color:rgb(236, 45, 236)
+}
+
+a.three:link {
+    color:rgb(94, 172, 245);  
+}
+
+a.three:visited {
+    color:rgb(236, 45, 236)
+}
