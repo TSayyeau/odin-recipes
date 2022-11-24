@@ -15,19 +15,23 @@ h1 {
     font-size: 40px;
     font-weight: bolder;
     text-decoration: underline;
+    margin-top: 0.9em;
+    margin-bottom: 1em;
     color: rgb(23, 196, 89);
-
 }
 
 h2 {
     font-weight: 600;
     text-decoration: underline;
     font-size: 20px;
+    margin-top: 0.9em;
+    margin-bottom: 1em;
     color: rgb(23, 196, 89);
 }
 
 button {
     background-color: rgb(223, 223, 112);
     color: rgb(105, 45, 45);
-
+    margin-top: 0.9em;
+    margin-bottom: 1em;
 }
